@@ -16,7 +16,6 @@ import org.mockito.junit.MockitoJUnitRunner;
 import java.time.LocalDate;
 import java.util.List;
 
-// @RunWith(MockitoJUnitRunner.class)
 public class TestClass {
 
     @Mock
